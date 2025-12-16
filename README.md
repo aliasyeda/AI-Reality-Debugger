@@ -1,4 +1,3 @@
-# AI-Reality-Debugger
 
 # AI Reality Debugger 🔍
 
