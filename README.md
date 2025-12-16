@@ -37,6 +37,12 @@ Reality Debugger analyzes visual artifacts, patterns, and inconsistencies to ide
 
 ---
 
+## 📄 Prompt Engineering
+The core logic of this project is driven by structured Gemini prompt design.
+See `Prompts.md` for details.
+
+---
+
 ## 🏆 Hackathon
 Submitted to **Gemini 3 Hackathon**
 
