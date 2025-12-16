@@ -1,4 +1,4 @@
-# Gemini Prompt Design – Reality Debugger (AI Image Analyzer)
+# Gemini Prompt Design – AI Reality Debugger (AI Image Analyzer)
 
 This project is implemented using **Google AI Studio** with **Gemini multimodal reasoning**.
 The system does not rely on traditional backend code; instead, the core intelligence is driven by
